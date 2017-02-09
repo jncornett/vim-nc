@@ -1,2 +1,2 @@
 " vim nc
-au BufNewFile,BufRead *.nc,*.ngc setlocal nospell ft=ngc syntax=ngc
+au BufNewFile,BufRead *.gcode setlocal nospell ft=gcode syntax=gcode
